@@ -1,0 +1,6 @@
+c:\users\pauliusj\documents\visual studio 2015\Projects\KlasesGyvunai\KlasesGyvunai\bin\Debug\KlasesGyvunai.exe.config
+c:\users\pauliusj\documents\visual studio 2015\Projects\KlasesGyvunai\KlasesGyvunai\bin\Debug\KlasesGyvunai.exe
+c:\users\pauliusj\documents\visual studio 2015\Projects\KlasesGyvunai\KlasesGyvunai\bin\Debug\KlasesGyvunai.pdb
+c:\users\pauliusj\documents\visual studio 2015\Projects\KlasesGyvunai\KlasesGyvunai\obj\Debug\KlasesGyvunai.csprojResolveAssemblyReference.cache
+c:\users\pauliusj\documents\visual studio 2015\Projects\KlasesGyvunai\KlasesGyvunai\obj\Debug\KlasesGyvunai.exe
+c:\users\pauliusj\documents\visual studio 2015\Projects\KlasesGyvunai\KlasesGyvunai\obj\Debug\KlasesGyvunai.pdb

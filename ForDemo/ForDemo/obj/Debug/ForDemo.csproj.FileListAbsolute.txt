@@ -1,0 +1,6 @@
+c:\users\pauliusj\documents\visual studio 2015\Projects\ForDemo\ForDemo\bin\Debug\ForDemo.exe.config
+c:\users\pauliusj\documents\visual studio 2015\Projects\ForDemo\ForDemo\obj\Debug\ForDemo.csprojResolveAssemblyReference.cache
+c:\users\pauliusj\documents\visual studio 2015\Projects\ForDemo\ForDemo\bin\Debug\ForDemo.exe
+c:\users\pauliusj\documents\visual studio 2015\Projects\ForDemo\ForDemo\bin\Debug\ForDemo.pdb
+c:\users\pauliusj\documents\visual studio 2015\Projects\ForDemo\ForDemo\obj\Debug\ForDemo.exe
+c:\users\pauliusj\documents\visual studio 2015\Projects\ForDemo\ForDemo\obj\Debug\ForDemo.pdb

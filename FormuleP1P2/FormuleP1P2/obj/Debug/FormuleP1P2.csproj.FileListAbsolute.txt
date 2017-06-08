@@ -1,0 +1,6 @@
+c:\users\pauliusj\documents\visual studio 2015\Projects\FormuleP1P2\FormuleP1P2\bin\Debug\FormuleP1P2.exe.config
+C:\Users\PauliusJ\Documents\Visual Studio 2015\Projects\FormuleP1P2\FormuleP1P2\bin\Debug\FormuleP1P2.exe
+C:\Users\PauliusJ\Documents\Visual Studio 2015\Projects\FormuleP1P2\FormuleP1P2\bin\Debug\FormuleP1P2.pdb
+C:\Users\PauliusJ\Documents\Visual Studio 2015\Projects\FormuleP1P2\FormuleP1P2\obj\Debug\FormuleP1P2.csprojResolveAssemblyReference.cache
+C:\Users\PauliusJ\Documents\Visual Studio 2015\Projects\FormuleP1P2\FormuleP1P2\obj\Debug\FormuleP1P2.exe
+C:\Users\PauliusJ\Documents\Visual Studio 2015\Projects\FormuleP1P2\FormuleP1P2\obj\Debug\FormuleP1P2.pdb

@@ -1,0 +1,6 @@
+c:\users\pauliusj\documents\visual studio 2015\Projects\WhileUzduotis1Skaicius\WhileUzduotis1Skaicius\bin\Debug\WhileUzduotis1Skaicius.exe.config
+c:\users\pauliusj\documents\visual studio 2015\Projects\WhileUzduotis1Skaicius\WhileUzduotis1Skaicius\bin\Debug\WhileUzduotis1Skaicius.exe
+c:\users\pauliusj\documents\visual studio 2015\Projects\WhileUzduotis1Skaicius\WhileUzduotis1Skaicius\bin\Debug\WhileUzduotis1Skaicius.pdb
+c:\users\pauliusj\documents\visual studio 2015\Projects\WhileUzduotis1Skaicius\WhileUzduotis1Skaicius\obj\Debug\WhileUzduotis1Skaicius.csprojResolveAssemblyReference.cache
+c:\users\pauliusj\documents\visual studio 2015\Projects\WhileUzduotis1Skaicius\WhileUzduotis1Skaicius\obj\Debug\WhileUzduotis1Skaicius.exe
+c:\users\pauliusj\documents\visual studio 2015\Projects\WhileUzduotis1Skaicius\WhileUzduotis1Skaicius\obj\Debug\WhileUzduotis1Skaicius.pdb

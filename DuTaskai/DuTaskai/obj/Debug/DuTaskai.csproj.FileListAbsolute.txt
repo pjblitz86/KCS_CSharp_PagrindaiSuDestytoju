@@ -1,0 +1,5 @@
+c:\users\pauliusj\documents\visual studio 2015\Projects\DuTaskai\DuTaskai\bin\Debug\DuTaskai.exe.config
+c:\users\pauliusj\documents\visual studio 2015\Projects\DuTaskai\DuTaskai\bin\Debug\DuTaskai.exe
+c:\users\pauliusj\documents\visual studio 2015\Projects\DuTaskai\DuTaskai\bin\Debug\DuTaskai.pdb
+c:\users\pauliusj\documents\visual studio 2015\Projects\DuTaskai\DuTaskai\obj\Debug\DuTaskai.exe
+c:\users\pauliusj\documents\visual studio 2015\Projects\DuTaskai\DuTaskai\obj\Debug\DuTaskai.pdb

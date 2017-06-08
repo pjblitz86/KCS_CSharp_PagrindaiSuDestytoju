@@ -1,0 +1,6 @@
+c:\users\pauliusj\documents\visual studio 2015\Projects\SkaiciuokleSwitch\SkaiciuokleSwitch\bin\Debug\SkaiciuokleSwitch.exe.config
+C:\Users\PauliusJ\Documents\Visual Studio 2015\Projects\SkaiciuokleSwitch\SkaiciuokleSwitch\bin\Debug\SkaiciuokleSwitch.exe
+C:\Users\PauliusJ\Documents\Visual Studio 2015\Projects\SkaiciuokleSwitch\SkaiciuokleSwitch\bin\Debug\SkaiciuokleSwitch.pdb
+C:\Users\PauliusJ\Documents\Visual Studio 2015\Projects\SkaiciuokleSwitch\SkaiciuokleSwitch\obj\Debug\SkaiciuokleSwitch.csprojResolveAssemblyReference.cache
+C:\Users\PauliusJ\Documents\Visual Studio 2015\Projects\SkaiciuokleSwitch\SkaiciuokleSwitch\obj\Debug\SkaiciuokleSwitch.exe
+C:\Users\PauliusJ\Documents\Visual Studio 2015\Projects\SkaiciuokleSwitch\SkaiciuokleSwitch\obj\Debug\SkaiciuokleSwitch.pdb

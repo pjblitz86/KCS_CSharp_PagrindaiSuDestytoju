@@ -1,0 +1,6 @@
+c:\users\pauliusj\documents\visual studio 2015\Projects\DuSkaiciai\DuSkaiciai\bin\Debug\DuSkaiciai.exe.config
+c:\users\pauliusj\documents\visual studio 2015\Projects\DuSkaiciai\DuSkaiciai\bin\Debug\DuSkaiciai.exe
+c:\users\pauliusj\documents\visual studio 2015\Projects\DuSkaiciai\DuSkaiciai\bin\Debug\DuSkaiciai.pdb
+c:\users\pauliusj\documents\visual studio 2015\Projects\DuSkaiciai\DuSkaiciai\obj\Debug\DuSkaiciai.csprojResolveAssemblyReference.cache
+c:\users\pauliusj\documents\visual studio 2015\Projects\DuSkaiciai\DuSkaiciai\obj\Debug\DuSkaiciai.exe
+c:\users\pauliusj\documents\visual studio 2015\Projects\DuSkaiciai\DuSkaiciai\obj\Debug\DuSkaiciai.pdb

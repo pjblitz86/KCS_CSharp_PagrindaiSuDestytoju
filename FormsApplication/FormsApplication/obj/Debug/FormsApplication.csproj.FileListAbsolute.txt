@@ -1,0 +1,9 @@
+c:\users\pauliusj\documents\visual studio 2015\Projects\FormsApplication\FormsApplication\bin\Debug\FormsApplication.exe.config
+c:\users\pauliusj\documents\visual studio 2015\Projects\FormsApplication\FormsApplication\bin\Debug\FormsApplication.exe
+c:\users\pauliusj\documents\visual studio 2015\Projects\FormsApplication\FormsApplication\bin\Debug\FormsApplication.pdb
+c:\users\pauliusj\documents\visual studio 2015\Projects\FormsApplication\FormsApplication\obj\Debug\FormsApplication.csprojResolveAssemblyReference.cache
+c:\users\pauliusj\documents\visual studio 2015\Projects\FormsApplication\FormsApplication\obj\Debug\FormsApplication.manoAplikacija.resources
+c:\users\pauliusj\documents\visual studio 2015\Projects\FormsApplication\FormsApplication\obj\Debug\FormsApplication.Properties.Resources.resources
+c:\users\pauliusj\documents\visual studio 2015\Projects\FormsApplication\FormsApplication\obj\Debug\FormsApplication.csproj.GenerateResource.Cache
+c:\users\pauliusj\documents\visual studio 2015\Projects\FormsApplication\FormsApplication\obj\Debug\FormsApplication.exe
+c:\users\pauliusj\documents\visual studio 2015\Projects\FormsApplication\FormsApplication\obj\Debug\FormsApplication.pdb

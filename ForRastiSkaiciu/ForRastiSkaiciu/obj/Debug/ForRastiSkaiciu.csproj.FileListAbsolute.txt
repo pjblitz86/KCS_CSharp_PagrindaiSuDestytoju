@@ -1,0 +1,6 @@
+c:\users\pauliusj\documents\visual studio 2015\Projects\ForRastiSkaiciu\ForRastiSkaiciu\bin\Debug\ForRastiSkaiciu.exe.config
+c:\users\pauliusj\documents\visual studio 2015\Projects\ForRastiSkaiciu\ForRastiSkaiciu\bin\Debug\ForRastiSkaiciu.exe
+c:\users\pauliusj\documents\visual studio 2015\Projects\ForRastiSkaiciu\ForRastiSkaiciu\bin\Debug\ForRastiSkaiciu.pdb
+c:\users\pauliusj\documents\visual studio 2015\Projects\ForRastiSkaiciu\ForRastiSkaiciu\obj\Debug\ForRastiSkaiciu.csprojResolveAssemblyReference.cache
+c:\users\pauliusj\documents\visual studio 2015\Projects\ForRastiSkaiciu\ForRastiSkaiciu\obj\Debug\ForRastiSkaiciu.exe
+c:\users\pauliusj\documents\visual studio 2015\Projects\ForRastiSkaiciu\ForRastiSkaiciu\obj\Debug\ForRastiSkaiciu.pdb

@@ -1,0 +1,6 @@
+c:\users\pauliusj\documents\visual studio 2015\Projects\SkaiciaiIRaides\SkaiciaiIRaides\bin\Debug\SkaiciaiIRaides.exe.config
+c:\users\pauliusj\documents\visual studio 2015\Projects\SkaiciaiIRaides\SkaiciaiIRaides\bin\Debug\SkaiciaiIRaides.exe
+c:\users\pauliusj\documents\visual studio 2015\Projects\SkaiciaiIRaides\SkaiciaiIRaides\bin\Debug\SkaiciaiIRaides.pdb
+c:\users\pauliusj\documents\visual studio 2015\Projects\SkaiciaiIRaides\SkaiciaiIRaides\obj\Debug\SkaiciaiIRaides.csprojResolveAssemblyReference.cache
+c:\users\pauliusj\documents\visual studio 2015\Projects\SkaiciaiIRaides\SkaiciaiIRaides\obj\Debug\SkaiciaiIRaides.exe
+c:\users\pauliusj\documents\visual studio 2015\Projects\SkaiciaiIRaides\SkaiciaiIRaides\obj\Debug\SkaiciaiIRaides.pdb

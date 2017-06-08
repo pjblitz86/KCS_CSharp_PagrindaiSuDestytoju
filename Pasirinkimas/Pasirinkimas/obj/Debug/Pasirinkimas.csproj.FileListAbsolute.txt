@@ -1,0 +1,6 @@
+c:\users\pauliusj\documents\visual studio 2015\Projects\Pasirinkimas\Pasirinkimas\bin\Debug\Pasirinkimas.exe.config
+c:\users\pauliusj\documents\visual studio 2015\Projects\Pasirinkimas\Pasirinkimas\bin\Debug\Pasirinkimas.exe
+c:\users\pauliusj\documents\visual studio 2015\Projects\Pasirinkimas\Pasirinkimas\bin\Debug\Pasirinkimas.pdb
+c:\users\pauliusj\documents\visual studio 2015\Projects\Pasirinkimas\Pasirinkimas\obj\Debug\Pasirinkimas.csprojResolveAssemblyReference.cache
+c:\users\pauliusj\documents\visual studio 2015\Projects\Pasirinkimas\Pasirinkimas\obj\Debug\Pasirinkimas.exe
+c:\users\pauliusj\documents\visual studio 2015\Projects\Pasirinkimas\Pasirinkimas\obj\Debug\Pasirinkimas.pdb

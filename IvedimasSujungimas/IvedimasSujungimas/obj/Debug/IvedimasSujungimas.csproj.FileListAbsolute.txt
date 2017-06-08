@@ -1,0 +1,6 @@
+c:\users\pauliusj\documents\visual studio 2015\Projects\IvedimasSujungimas\IvedimasSujungimas\bin\Debug\IvedimasSujungimas.exe.config
+c:\users\pauliusj\documents\visual studio 2015\Projects\IvedimasSujungimas\IvedimasSujungimas\bin\Debug\IvedimasSujungimas.exe
+c:\users\pauliusj\documents\visual studio 2015\Projects\IvedimasSujungimas\IvedimasSujungimas\bin\Debug\IvedimasSujungimas.pdb
+c:\users\pauliusj\documents\visual studio 2015\Projects\IvedimasSujungimas\IvedimasSujungimas\obj\Debug\IvedimasSujungimas.csprojResolveAssemblyReference.cache
+c:\users\pauliusj\documents\visual studio 2015\Projects\IvedimasSujungimas\IvedimasSujungimas\obj\Debug\IvedimasSujungimas.exe
+c:\users\pauliusj\documents\visual studio 2015\Projects\IvedimasSujungimas\IvedimasSujungimas\obj\Debug\IvedimasSujungimas.pdb

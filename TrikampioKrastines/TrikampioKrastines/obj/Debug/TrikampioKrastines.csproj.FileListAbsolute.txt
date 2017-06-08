@@ -1,0 +1,6 @@
+c:\users\pauliusj\documents\visual studio 2015\Projects\TrikampioKrastines\TrikampioKrastines\bin\Debug\TrikampioKrastines.exe.config
+c:\users\pauliusj\documents\visual studio 2015\Projects\TrikampioKrastines\TrikampioKrastines\bin\Debug\TrikampioKrastines.exe
+c:\users\pauliusj\documents\visual studio 2015\Projects\TrikampioKrastines\TrikampioKrastines\bin\Debug\TrikampioKrastines.pdb
+c:\users\pauliusj\documents\visual studio 2015\Projects\TrikampioKrastines\TrikampioKrastines\obj\Debug\TrikampioKrastines.csprojResolveAssemblyReference.cache
+c:\users\pauliusj\documents\visual studio 2015\Projects\TrikampioKrastines\TrikampioKrastines\obj\Debug\TrikampioKrastines.exe
+c:\users\pauliusj\documents\visual studio 2015\Projects\TrikampioKrastines\TrikampioKrastines\obj\Debug\TrikampioKrastines.pdb

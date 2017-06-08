@@ -1,0 +1,6 @@
+c:\users\pauliusj\documents\visual studio 2015\Projects\KlaseDemoCustom\KlaseDemoCustom\bin\Debug\KlaseDemoCustom.exe.config
+C:\Users\PauliusJ\Documents\Visual Studio 2015\Projects\KlaseDemoCustom\KlaseDemoCustom\bin\Debug\KlaseDemoCustom.exe
+C:\Users\PauliusJ\Documents\Visual Studio 2015\Projects\KlaseDemoCustom\KlaseDemoCustom\bin\Debug\KlaseDemoCustom.pdb
+C:\Users\PauliusJ\Documents\Visual Studio 2015\Projects\KlaseDemoCustom\KlaseDemoCustom\obj\Debug\KlaseDemoCustom.csprojResolveAssemblyReference.cache
+C:\Users\PauliusJ\Documents\Visual Studio 2015\Projects\KlaseDemoCustom\KlaseDemoCustom\obj\Debug\KlaseDemoCustom.exe
+C:\Users\PauliusJ\Documents\Visual Studio 2015\Projects\KlaseDemoCustom\KlaseDemoCustom\obj\Debug\KlaseDemoCustom.pdb

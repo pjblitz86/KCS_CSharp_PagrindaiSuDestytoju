@@ -1,0 +1,6 @@
+c:\users\pauliusj\documents\visual studio 2015\Projects\Metodai2Demo\Metodai2Demo\bin\Debug\Metodai2Demo.exe.config
+c:\users\pauliusj\documents\visual studio 2015\Projects\Metodai2Demo\Metodai2Demo\bin\Debug\Metodai2Demo.exe
+c:\users\pauliusj\documents\visual studio 2015\Projects\Metodai2Demo\Metodai2Demo\bin\Debug\Metodai2Demo.pdb
+c:\users\pauliusj\documents\visual studio 2015\Projects\Metodai2Demo\Metodai2Demo\obj\Debug\Metodai2Demo.csprojResolveAssemblyReference.cache
+c:\users\pauliusj\documents\visual studio 2015\Projects\Metodai2Demo\Metodai2Demo\obj\Debug\Metodai2Demo.exe
+c:\users\pauliusj\documents\visual studio 2015\Projects\Metodai2Demo\Metodai2Demo\obj\Debug\Metodai2Demo.pdb

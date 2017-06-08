@@ -1,0 +1,6 @@
+c:\users\pauliusj\documents\visual studio 2015\Projects\PirminiaiSkaiciai\PirminiaiSkaiciai\bin\Debug\PirminiaiSkaiciai.exe.config
+C:\Users\PauliusJ\Documents\Visual Studio 2015\Projects\PirminiaiSkaiciai\PirminiaiSkaiciai\bin\Debug\PirminiaiSkaiciai.exe
+C:\Users\PauliusJ\Documents\Visual Studio 2015\Projects\PirminiaiSkaiciai\PirminiaiSkaiciai\bin\Debug\PirminiaiSkaiciai.pdb
+C:\Users\PauliusJ\Documents\Visual Studio 2015\Projects\PirminiaiSkaiciai\PirminiaiSkaiciai\obj\Debug\PirminiaiSkaiciai.exe
+C:\Users\PauliusJ\Documents\Visual Studio 2015\Projects\PirminiaiSkaiciai\PirminiaiSkaiciai\obj\Debug\PirminiaiSkaiciai.pdb
+C:\Users\PauliusJ\Documents\Visual Studio 2015\Projects\PirminiaiSkaiciai\PirminiaiSkaiciai\obj\Debug\PirminiaiSkaiciai.csprojResolveAssemblyReference.cache

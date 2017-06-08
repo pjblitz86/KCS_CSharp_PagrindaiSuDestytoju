@@ -1,0 +1,6 @@
+c:\users\pauliusj\documents\visual studio 2015\Projects\SwitchDemo\SwitchDemo\bin\Debug\SwitchDemo.exe.config
+c:\users\pauliusj\documents\visual studio 2015\Projects\SwitchDemo\SwitchDemo\obj\Debug\SwitchDemo.csprojResolveAssemblyReference.cache
+c:\users\pauliusj\documents\visual studio 2015\Projects\SwitchDemo\SwitchDemo\bin\Debug\SwitchDemo.exe
+c:\users\pauliusj\documents\visual studio 2015\Projects\SwitchDemo\SwitchDemo\bin\Debug\SwitchDemo.pdb
+c:\users\pauliusj\documents\visual studio 2015\Projects\SwitchDemo\SwitchDemo\obj\Debug\SwitchDemo.exe
+c:\users\pauliusj\documents\visual studio 2015\Projects\SwitchDemo\SwitchDemo\obj\Debug\SwitchDemo.pdb

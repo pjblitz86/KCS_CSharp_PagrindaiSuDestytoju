@@ -1,0 +1,6 @@
+c:\users\pauliusj\documents\visual studio 2015\Projects\Fibonacius\Fibonacius\bin\Debug\Fibonacius.exe.config
+c:\users\pauliusj\documents\visual studio 2015\Projects\Fibonacius\Fibonacius\bin\Debug\Fibonacius.exe
+c:\users\pauliusj\documents\visual studio 2015\Projects\Fibonacius\Fibonacius\bin\Debug\Fibonacius.pdb
+c:\users\pauliusj\documents\visual studio 2015\Projects\Fibonacius\Fibonacius\obj\Debug\Fibonacius.csprojResolveAssemblyReference.cache
+c:\users\pauliusj\documents\visual studio 2015\Projects\Fibonacius\Fibonacius\obj\Debug\Fibonacius.exe
+c:\users\pauliusj\documents\visual studio 2015\Projects\Fibonacius\Fibonacius\obj\Debug\Fibonacius.pdb

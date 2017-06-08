@@ -1,0 +1,6 @@
+c:\users\pauliusj\documents\visual studio 2015\Projects\BasicSkaiciuokle\BasicSkaiciuokle\bin\Debug\BasicSkaiciuokle.exe.config
+c:\users\pauliusj\documents\visual studio 2015\Projects\BasicSkaiciuokle\BasicSkaiciuokle\bin\Debug\BasicSkaiciuokle.exe
+c:\users\pauliusj\documents\visual studio 2015\Projects\BasicSkaiciuokle\BasicSkaiciuokle\bin\Debug\BasicSkaiciuokle.pdb
+c:\users\pauliusj\documents\visual studio 2015\Projects\BasicSkaiciuokle\BasicSkaiciuokle\obj\Debug\BasicSkaiciuokle.csprojResolveAssemblyReference.cache
+c:\users\pauliusj\documents\visual studio 2015\Projects\BasicSkaiciuokle\BasicSkaiciuokle\obj\Debug\BasicSkaiciuokle.exe
+c:\users\pauliusj\documents\visual studio 2015\Projects\BasicSkaiciuokle\BasicSkaiciuokle\obj\Debug\BasicSkaiciuokle.pdb
